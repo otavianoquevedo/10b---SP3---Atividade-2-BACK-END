@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Projeto Web LH-Pets versao 1.props" />
+</Project>
